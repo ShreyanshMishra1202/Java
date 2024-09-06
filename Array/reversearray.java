@@ -13,5 +13,6 @@ public class reversearray {
             end--;
         }
         System.out.println(Arrays.toString(a));
+        System.out.println("JAI HIND");
     }
 }
