@@ -16,5 +16,6 @@ public class Profit_From_Gold {
             }
         }
         System.out.println(sum);
+        sc.close();
     }
 }
