@@ -22,10 +22,8 @@ public class Reverse_Vowel {
             }
         }
         // System.out.println(Arrays.toString(s));
-        System.out.println("Answer: \n"+s1);
         String sd=new String(s);
         System.out.println(sd);
-        System.out.println("end");
         
         sc.close();
     }
