@@ -1,9 +1,4 @@
-// Java Program to Reverse a Word
-
-import java.io.*;
-import java.util.Scanner;
-
-class RevString {
+public class RevString {
     public static void main (String[] args) {
       
         String str= "Geeks", nstr="";
